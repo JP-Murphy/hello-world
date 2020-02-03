@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Howdy!
+
+I'm finally learning how to properly manage programming projects using GitHub!
